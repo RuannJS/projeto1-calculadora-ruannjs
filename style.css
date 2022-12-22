@@ -1,0 +1,11 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.custom-margin {
+    margin-top: 5%;
+}
+
+.wrap{
+    word-wrap: break-word;
+}
